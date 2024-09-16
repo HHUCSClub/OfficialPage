@@ -1,7 +1,6 @@
 ---
-title: 1 学生组织与社团简介
+title: 学生组织与社团简介
 index: true
-icon: laptop-code
 category:
   - 诚聘英才
 ---
