@@ -13,7 +13,6 @@ tagline: 指导教师与社长们</br>以及对协会有突出贡献的朋友
 highlights:
   - header: 指导教师
     description: 业务指导单位：计算机与软件学院
-    image: /assets/image/markdown.svg
     bgImage: 
     bgImageDark: 
     bgImageStyle:
@@ -24,8 +23,7 @@ highlights:
         details: 计算机科学与技术 系主任
 
   - header: 现任社长
-    description: 2023至今
-    image: /assets/image/markdown.svg
+    description: 2024-2025学年
     bgImage: 
     bgImageDark: 
     bgImageStyle:
@@ -37,9 +35,37 @@ highlights:
       - title: HZDZ
         details: 2023 CS
 
+  - header: 历任社长
+    description: 自2019级开始统计
+    bgImage: 
+    bgImageDark: 
+    bgImageStyle:
+      background-repeat: repeat
+      background-size: initial
+    features:
+      - title: CmdBlock
+        details: 2022 AI
+      - title: Moska1ro
+        details: 2021 SE
+      - title: Les Misér
+        details: 2021 IST
+      - title: Resfir
+        details: 2021 CS
+      - title: BigTortoise
+        details: 2020 SE
+      - title: VisualCpp
+        details: 2020 SE
+      - title: Hdoenaery
+        details: 2020 CS
+      - title: tete
+        details: 2019 CE
+      - title: wind
+        details: 2019 CE
+      - title: stella
+        details: 2019 CS
+
   - header: 卓越贡献者
-    description: Ty 4 ur love!
-    image: /assets/image/markdown.svg
+    description: Thank you 4 ur love!
     bgImage: 
     bgImageDark: 
     bgImageStyle:
@@ -69,35 +95,7 @@ highlights:
       - title: cou1hen
         details:         
 
-  - header: 历任社长
-    description: 自2020开始统计
-    image: /assets/image/markdown.svg
-    bgImage: 
-    bgImageDark: 
-    bgImageStyle:
-      background-repeat: repeat
-      background-size: initial
-    features:
-      - title: CmdBlock
-        details: 2022 AI
-      - title: Moska1ro
-        details: 2021 SE
-      - title: Les Misér
-        details: 2021 IST
-      - title: Resfir
-        details: 2021 CS
-      - title: BigTortoise
-        details: 2020 SE
-      - title: VisualCpp
-        details: 2020 SE
-      - title: Hdoenaery
-        details: 2020 CS
-      - title: tete
-        details: 2019 CE
-      - title: wind
-        details: 2019 CE
-      - title: stella
-        details: 2019 CS
+
 
 
 copyright: false

@@ -22,7 +22,7 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "默认页脚",
+  footer: "计算机协会",
   displayFooter: true,
 
   // 加密配置

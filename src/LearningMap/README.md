@@ -1,9 +1,6 @@
 ---
 title: Learning Map
 index: false
-icon: laptop-code
-category:
-  - 学习路线
 ---
 
 这里将会分享有关计算机学习路线、心得体会等的相关内容。
