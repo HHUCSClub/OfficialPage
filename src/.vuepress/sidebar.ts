@@ -6,7 +6,7 @@ export default sidebar(
       text: "主页", link: "/", icon: "home"
     },
     {
-      text: "简介", link: "/Introduction/", children: [
+      text: "简介", link: "/Introduction/", collapsible: true, children: [
         {
           text: "社团概况", link: "/Introduction/"
         },
@@ -28,7 +28,11 @@ export default sidebar(
       text: "贡献者", link: "/Contributor/"
     },
     {
-      text: "加入我们", link: "/JoinUs/"
+      text: "加入我们", link: "/JoinUs/", collapsible: true, children: [
+        {
+          text: "学生组织与社团简介", link: "/JoinUs/CampusRelation"
+        }
+      ]
     },
   ]
 );
